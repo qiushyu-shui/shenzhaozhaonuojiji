@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1780492569824,
+  "timestamp": 1780492571704,
   "appVersion": "5.1.0 (2026.05.21)",
   "tables": [
     "characters",
@@ -60,7 +60,7 @@
   ],
   "chunkedTables": {
     "stickers": 2,
-    "messages": 3,
+    "messages": 1,
     "roleStickers": 2
   },
   "completedTables": {
@@ -78,23 +78,7 @@
     "tmSessions": true,
     "tmStories": true,
     "multiSceneSessions": true,
-    "multiSceneStories": true,
-    "multiSceneCastSettings": true,
-    "multiSceneSessionSettings": true,
-    "multiSceneSessionSummaries": true,
-    "customNoises": true,
-    "flashMoments": true,
-    "groupSettings": true,
-    "userLinks": true,
-    "userMessages": true,
-    "ttsAudio": true,
-    "forumData": true,
-    "groupChats": true,
-    "xinsheng": true,
-    "pomodoroSessions": true,
-    "quickReplies": true,
-    "goingOutState": true,
-    "mapRasterCache": true
+    "multiSceneCastSettings": true
   },
   "inProgress": true
 }
