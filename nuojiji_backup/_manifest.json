@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1780492510974,
+  "timestamp": 1780492521312,
   "appVersion": "5.1.0 (2026.05.21)",
   "tables": [
     "characters",
@@ -58,5 +58,21 @@
     "chikanPhoneSkins",
     "_migration"
   ],
+  "chunkedTables": {
+    "stickers": 2,
+    "messages": 1
+  },
+  "completedTables": {
+    "characters": true,
+    "worldBooks": true,
+    "kaomojis": true,
+    "users": true,
+    "userState": true,
+    "userPosts": true,
+    "chatSettings": true,
+    "favorites": true,
+    "memory": true,
+    "summaryEntries": true
+  },
   "inProgress": true
 }
