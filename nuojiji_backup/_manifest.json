@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1780492748304,
+  "timestamp": 1780492753906,
   "appVersion": "5.1.0 (2026.05.21)",
   "tables": [
     "characters",
@@ -61,7 +61,7 @@
   "chunkedTables": {
     "stickers": 2,
     "messages": 3,
-    "roleStickers": 1
+    "roleStickers": 2
   },
   "completedTables": {
     "kaomojis": true,
