@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1780492835919,
+  "timestamp": 1780492841611,
   "appVersion": "5.1.0 (2026.05.21)",
   "tables": [
     "characters",
@@ -91,7 +91,8 @@
     "xinsheng": true,
     "pomodoroSessions": true,
     "goingOutState": true,
-    "goingOutAreas": true
+    "goingOutAreas": true,
+    "mapRasterCache": true
   },
   "inProgress": true
 }
