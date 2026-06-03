@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1780492650650,
+  "timestamp": 1780492659200,
   "appVersion": "5.1.0 (2026.05.21)",
   "tables": [
     "characters",
@@ -62,7 +62,8 @@
     "stickers": 2
   },
   "completedTables": {
-    "kaomojis": true
+    "kaomojis": true,
+    "users": true
   },
   "inProgress": true
 }
