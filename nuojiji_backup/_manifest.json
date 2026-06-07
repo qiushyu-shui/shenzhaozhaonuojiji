@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1780817368823,
+  "timestamp": 1780817603567,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -41,10 +41,6 @@
     "wallpapers",
     "_migration"
   ],
-  "completedTables": {
-    "characters": true,
-    "worldBooks": true
-  },
   "source": "auto",
   "inProgress": true
 }
