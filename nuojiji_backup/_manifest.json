@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1781253721345,
+  "timestamp": 1781254321210,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -41,33 +41,6 @@
     "wallpapers",
     "_migration"
   ],
-  "chunkedTables": {
-    "stickers": 4,
-    "messages": 24,
-    "roleStickers": 4
-  },
-  "completedTables": {
-    "characters": true,
-    "worldBooks": true,
-    "globalSettings": true,
-    "kaomojis": true,
-    "users": true,
-    "userState": true,
-    "userPosts": true,
-    "chatSettings": true,
-    "favorites": true,
-    "memory": true,
-    "callLogs": true,
-    "tmSessions": true,
-    "tmStories": true,
-    "customNoises": true,
-    "flashMoments": true,
-    "calendarData": true,
-    "groupChats": true,
-    "xinsheng": true,
-    "pomodoroSessions": true,
-    "couplesData": true
-  },
   "source": "auto",
   "inProgress": true
 }
