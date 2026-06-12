@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1781278394759,
+  "timestamp": 1781278829625,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -15,10 +15,17 @@
     "messages",
     "favorites",
     "memory",
+    "summaryEntries",
     "callLogs",
     "roleStickers",
     "tmSessions",
     "tmStories",
+    "multiSceneSessions",
+    "multiSceneStories",
+    "multiSceneCastSettings",
+    "multiSceneSessionSettings",
+    "multiSceneSummaries",
+    "multiSceneSessionSummaries",
     "customNoises",
     "flashMoments",
     "groupSettings",
@@ -32,23 +39,29 @@
     "pomodoroSessions",
     "couplesData",
     "imageStore",
+    "stickerStore",
     "quickReplies",
     "goingOutState",
     "goingOutAreas",
     "mapRasterCache",
     "customGames",
     "customWidgetTemplates",
+    "customWidgetState",
     "wallpapers",
+    "whiteDogData",
+    "isekaiSaves",
+    "pomodoroData",
+    "regexRules",
+    "mcpServers",
+    "thinkingStore",
+    "commitments",
+    "characterLifeState",
+    "chikanPhoneSkins",
+    "healthEntries",
+    "healthProfile",
+    "homelandState",
     "_migration"
   ],
-  "chunkedTables": {
-    "stickers": 1
-  },
-  "completedTables": {
-    "characters": true,
-    "worldBooks": true,
-    "globalSettings": true
-  },
   "source": "auto",
   "inProgress": true
 }
