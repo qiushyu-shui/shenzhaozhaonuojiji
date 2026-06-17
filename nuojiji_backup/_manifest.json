@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1781668702879,
+  "timestamp": 1781668709331,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -64,7 +64,8 @@
   ],
   "chunkedTables": {
     "globalSettings": 1,
-    "roleStickers": 20
+    "roleStickers": 20,
+    "ttsAudio": 1
   },
   "completedTables": {
     "characters": true,
@@ -79,7 +80,8 @@
     "customNoises": true,
     "flashMoments": true,
     "groupSettings": true,
-    "userLinks": true
+    "userLinks": true,
+    "userMessages": true
   },
   "source": "auto",
   "inProgress": true
