@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1781682448440,
+  "timestamp": 1781682455649,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -112,7 +112,9 @@
     "wallpapers": true,
     "whiteDogData": true,
     "characterLifeState": true,
-    "healthEntries": true
+    "healthEntries": true,
+    "healthProfile": true,
+    "homelandState": true
   },
   "source": "auto",
   "inProgress": true
