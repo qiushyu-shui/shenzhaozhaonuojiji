@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1781765550933,
+  "timestamp": 1781768476983,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -62,41 +62,6 @@
     "homelandState",
     "_migration"
   ],
-  "chunkedTables": {
-    "globalSettings": 2,
-    "stickers": 20,
-    "messages": 15,
-    "ttsAudio": 2,
-    "imageStore": 2,
-    "regexRules": 11
-  },
-  "completedTables": {
-    "characters": true,
-    "worldBooks": true,
-    "kaomojis": true,
-    "users": true,
-    "userState": true,
-    "userPosts": true,
-    "chatSettings": true,
-    "forumData": true,
-    "calendarData": true,
-    "groupChats": true,
-    "xinsheng": true,
-    "pomodoroSessions": true,
-    "couplesData": true,
-    "stickerStore": true,
-    "quickReplies": true,
-    "goingOutState": true,
-    "goingOutAreas": true,
-    "mapRasterCache": true,
-    "customGames": true,
-    "customWidgetTemplates": true,
-    "customWidgetState": true,
-    "wallpapers": true,
-    "whiteDogData": true,
-    "isekaiSaves": true,
-    "pomodoroData": true
-  },
   "source": "auto",
   "inProgress": true
 }
