@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1781776927769,
+  "timestamp": 1781776935204,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -67,7 +67,7 @@
     "stickers": 20,
     "messages": 100,
     "roleStickers": 20,
-    "ttsAudio": 1
+    "ttsAudio": 2
   },
   "completedTables": {
     "characters": true,
@@ -89,7 +89,8 @@
     "flashMoments": true,
     "groupSettings": true,
     "userLinks": true,
-    "userMessages": true
+    "userMessages": true,
+    "forumData": true
   },
   "source": "auto",
   "inProgress": true
