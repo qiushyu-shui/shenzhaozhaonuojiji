@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1781796444811,
+  "timestamp": 1781801254147,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -62,50 +62,6 @@
     "homelandState",
     "_migration"
   ],
-  "chunkedTables": {
-    "globalSettings": 2,
-    "stickers": 20,
-    "messages": 39,
-    "ttsAudio": 2,
-    "imageStore": 2,
-    "regexRules": 18,
-    "thinkingStore": 25,
-    "commitments": 2
-  },
-  "completedTables": {
-    "characters": true,
-    "worldBooks": true,
-    "kaomojis": true,
-    "users": true,
-    "userState": true,
-    "userPosts": true,
-    "chatSettings": true,
-    "forumData": true,
-    "calendarData": true,
-    "groupChats": true,
-    "xinsheng": true,
-    "pomodoroSessions": true,
-    "couplesData": true,
-    "stickerStore": true,
-    "quickReplies": true,
-    "goingOutState": true,
-    "goingOutAreas": true,
-    "mapRasterCache": true,
-    "customGames": true,
-    "customWidgetTemplates": true,
-    "customWidgetState": true,
-    "wallpapers": true,
-    "whiteDogData": true,
-    "isekaiSaves": true,
-    "pomodoroData": true,
-    "mcpServers": true,
-    "characterLifeState": true,
-    "chikanPhoneSkins": true,
-    "healthEntries": true,
-    "healthProfile": true,
-    "homelandState": true,
-    "_migration": true
-  },
   "source": "auto",
-  "inProgress": false
+  "inProgress": true
 }
