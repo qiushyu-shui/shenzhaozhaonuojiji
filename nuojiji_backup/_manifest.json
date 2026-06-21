@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1782053246885,
+  "timestamp": 1782053253740,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -70,7 +70,7 @@
     "roleStickers": 20,
     "ttsAudio": 2,
     "imageStore": 2,
-    "regexRules": 17
+    "regexRules": 18
   },
   "completedTables": {
     "characters": true,
@@ -111,7 +111,8 @@
     "wallpapers": true,
     "whiteDogData": true,
     "isekaiSaves": true,
-    "pomodoroData": true
+    "pomodoroData": true,
+    "mcpServers": true
   },
   "source": "auto",
   "inProgress": true
