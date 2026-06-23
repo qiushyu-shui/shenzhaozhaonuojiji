@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1782229103434,
+  "timestamp": 1782229110920,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -102,7 +102,8 @@
     "isekaiSaves": true,
     "pomodoroData": true,
     "mcpServers": true,
-    "characterLifeState": true
+    "characterLifeState": true,
+    "chikanPhoneSkins": true
   },
   "source": "auto",
   "inProgress": true
