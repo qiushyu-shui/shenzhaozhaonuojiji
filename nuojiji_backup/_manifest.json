@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1784651963954,
+  "timestamp": 1784651969068,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -110,7 +110,8 @@
     "customGames": true,
     "customWidgetState": true,
     "whiteDogData": true,
-    "pomodoroData": true
+    "pomodoroData": true,
+    "mcpServers": true
   },
   "source": "auto",
   "inProgress": true
