@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1784651912926,
+  "timestamp": 1784651922442,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -108,7 +108,8 @@
     "mapRasterCache": true,
     "customGames": true,
     "customWidgetState": true,
-    "whiteDogData": true
+    "whiteDogData": true,
+    "pomodoroData": true
   },
   "source": "auto",
   "inProgress": true
