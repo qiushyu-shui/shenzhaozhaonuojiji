@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1785140321991,
+  "timestamp": 1785140339586,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -87,7 +87,8 @@
     "callLogs": true,
     "tmSessions": true,
     "tmStories": true,
-    "groupChats": true
+    "groupChats": true,
+    "xinsheng": true
   },
   "source": "auto",
   "inProgress": true
