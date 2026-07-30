@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1785401909287,
+  "timestamp": 1785402225287,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -79,7 +79,8 @@
     "users": true,
     "userState": true,
     "userPosts": true,
-    "chatSettings": true
+    "chatSettings": true,
+    "whiteDogData": true
   },
   "source": "auto",
   "inProgress": true
