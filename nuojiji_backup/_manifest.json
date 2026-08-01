@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1785602428953,
+  "timestamp": 1785602453543,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -71,7 +71,7 @@
     "stickers": 5,
     "messages": 69,
     "roleStickers": 5,
-    "thinkingStore": 1
+    "thinkingStore": 2
   },
   "completedTables": {
     "characters": true,
