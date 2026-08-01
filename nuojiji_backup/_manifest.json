@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1785562362362,
+  "timestamp": 1785562418051,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -70,7 +70,8 @@
   "chunkedTables": {
     "stickers": 5,
     "messages": 67,
-    "roleStickers": 5
+    "roleStickers": 5,
+    "regexRules": 1
   },
   "completedTables": {
     "characters": true,
@@ -115,7 +116,8 @@
     "customWidgetState": true,
     "wallpapers": true,
     "whiteDogData": true,
-    "isekaiSaves": true
+    "isekaiSaves": true,
+    "pomodoroData": true
   },
   "source": "auto",
   "inProgress": true
