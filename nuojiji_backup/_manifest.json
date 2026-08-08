@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1786185710337,
+  "timestamp": 1786185717698,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -75,7 +75,9 @@
     "characters": true,
     "worldBooks": true,
     "globalSettings": true,
-    "chatSettings": true
+    "chatSettings": true,
+    "favorites": true,
+    "memory": true
   },
   "source": "auto",
   "inProgress": true
