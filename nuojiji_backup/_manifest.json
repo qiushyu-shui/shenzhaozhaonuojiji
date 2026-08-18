@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1787070977095,
+  "timestamp": 1787070983994,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -82,7 +82,9 @@
     "userPosts": true,
     "chatSettings": true,
     "couplesData": true,
-    "stickerStore": true
+    "stickerStore": true,
+    "quickReplies": true,
+    "goingOutState": true
   },
   "source": "auto",
   "inProgress": true
