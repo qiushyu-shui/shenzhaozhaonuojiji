@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1787412321056,
+  "timestamp": 1787420012145,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -17,6 +17,7 @@
     "memory",
     "summaryEntries",
     "callLogs",
+    "friendRequests",
     "roleStickers",
     "tmSessions",
     "tmStories",
@@ -45,6 +46,7 @@
     "goingOutAreas",
     "mapRasterCache",
     "customGames",
+    "customGameSaves",
     "customWidgetTemplates",
     "customWidgetState",
     "wallpapers",
